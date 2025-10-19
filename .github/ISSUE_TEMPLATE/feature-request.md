@@ -1,7 +1,7 @@
 ---
 name: Propozycja funkcji
 about: Zaproponuj nowa funkcjonalnosc
-title: [FEATURE] Krotki opis
+title: "[FEATURE] Krotki opis"
 labels: enhancements
 assignees: ''
 ---
