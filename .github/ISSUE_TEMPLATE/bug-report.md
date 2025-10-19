@@ -1,10 +1,10 @@
- ---
+---
 name: Zgloszenie bledu
 about: Zglos blad na stronie ZOO Online
-title: [BUG] Krotki opis
+title: "[BUG] Krotki opis"
 labels: bug
 assignes: ''
- ---
+---
 
 **Opis Bledu**
 Krotko opisz na czym polega blad
